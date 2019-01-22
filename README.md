@@ -5,5 +5,5 @@
 ```bash
 $ yarn install
 $ yarn build
-& node lib/index.js
+$ node lib/index.js
 ```
